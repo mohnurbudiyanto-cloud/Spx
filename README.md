@@ -1,8 +1,9 @@
+[index4.txt](https://github.com/user-attachments/files/32971113/index4.txt)
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lowongan Kurir SPX Jabar 2 — Area Cirebon</title>
+    <title>Lowongan Kurir SPX Jabar 2 — Area Cireb<img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/d756bccc-fa6b-4953-80cd-cb5d5375eb68" />on</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Roboto, sans-serif; }
         :root {
