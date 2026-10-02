@@ -1,5 +1,3 @@
-[index4.txt](https://github.com/user-attachments/files/32969066/index4.txt)
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
