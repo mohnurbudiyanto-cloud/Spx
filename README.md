@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/files/32971113/index4.txt)
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
