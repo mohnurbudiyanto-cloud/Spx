@@ -1,4 +1,3 @@
-
 <img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/72c08b1a-c110-41a7-86b5-a48ef0662658" />
 <html lang="id">
 <head>
@@ -378,7 +377,7 @@
         
         <br>
         <a href="https://[https://bit.ly/4hF9rBM]" target="_blank" class="btn-link">
-            🔗 Atau Daftar Lewat Link: [https://bit.ly/4hF9rBM]
+            🔗 Atau Daftar Lewat Link: https://bit.ly/4hF9rBM
         </a>
         
         <p class="gratis"><span>⭐</span> PENDAFTARAN GRATIS! TIDAK DIPUNGUT BIAYA APAPUN <span>⭐</span></p>
