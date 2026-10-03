@@ -1,5 +1,3 @@
-<head>
-<img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/3504949f-0bfe-4c8b-b8dc-ef0e063a900f" />
 <html lang="id">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -93,7 +91,7 @@
 <div class="container">
     <!-- LOGO -->
     <div class="logo-box">
-        <img src="logo-myrobin.png" alt="myrobin.id" class="logo-img">
+        <img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/3504949f-0bfe-4c8b-b8dc-ef0e063a900f" />
     </div>
 
     <!-- BANNER UTAMA -->
