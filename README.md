@@ -376,7 +376,7 @@
         </a>
         
         <br>
-        <a href="https://bit.ly/KurirMYRJabar" target="_blank" class="btn-link">
+        <a href="https://[https://bit.ly/4hF9rBM]" target="_blank" class="btn-link">
             🔗 Atau Daftar Lewat Link: bit.ly/KurirMYRJabar
         </a>
         
