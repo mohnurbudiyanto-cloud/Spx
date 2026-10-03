@@ -90,7 +90,7 @@
 <div class="container">
     <!-- LOGO -->
     <div class="logo-box">
-        <img width="100" height="120" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/3504949f-0bfe-4c8b-b8dc-ef0e063a900f" />
+        <img width="1000" height="237" alt="logomyrobin" src="https://github.com/user-attachments/assets/45ae7be7-0ecf-46a6-bc05-3027db9f8715" />
     </div>
 
     <!-- BANNER UTAMA -->
