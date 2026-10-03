@@ -129,11 +129,11 @@
     <div class="card" style="background: linear-gradient(135deg, #f8fffc 0%, #e8f5f0 100%); border: 2px solid #c8f0dc;">
         <h2 style="justify-content: center; border: none; text-align: center;">📩 DAFTAR SEKARANG</h2>
         
-        <a href="https://bit.ly/4xVE0cr" target="_blank" class="btn-form">
+        <a href="https://bit.ly/4yn7Bwy" target="_blank" class="btn-form">
             📝 Isi Formulir Pendaftaran
         </a>
         
-        <a href="https://https://docs.google.com/spreadsheets/d/1X0MOYOW8mF4PvpwGzpALJHTRtuTk4cPftP3R9G2TT48/edit?usp=sharing" target="_blank" class="btn-sheet">
+        <a href="https://docs.google.com/spreadsheets/d/1X0MOYOW8mF4PvpwGzpALJHTRtuTk4cPftP3R9G2TT48/edit?usp=sharing" target="_blank" class="btn-sheet">
             📊 Lihat Data & Kuota Rekrutmen
         </a>
         
