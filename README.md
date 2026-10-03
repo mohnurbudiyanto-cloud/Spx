@@ -103,7 +103,7 @@
     <!-- INFORMASI -->
     <div class="card">
         <h2>Informasi Program</h2>
-        <p style="margin-bottom: 15px;"><strong>my Robin</strong> bermitra dengan Shopee Express mencari kurir untuk wilayah Cirebon.</p>
+        <p style="margin-bottom: 15px;"><strong>Myrobin</strong> bermitra dengan Shopee Express mencari kurir untuk wilayah Cirebon.</p>
         
         <h3 style="margin: 20px 0 10px; font-size: 1rem; color: #546e7a;">💰 Komisi Per Paket</h3>
         <table class="rate-table">
