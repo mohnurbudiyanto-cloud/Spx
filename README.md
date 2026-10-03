@@ -90,7 +90,7 @@
 <div class="container">
     <!-- LOGO -->
     <div class="logo-box">
-        <img width="100" height="50" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/3504949f-0bfe-4c8b-b8dc-ef0e063a900f" />
+        <img width="100" height="120" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/3504949f-0bfe-4c8b-b8dc-ef0e063a900f" />
     </div>
 
     <!-- BANNER UTAMA -->
@@ -137,7 +137,211 @@
         <a href="https://wa.me/6283166142120" target="_blank" class="btn-wa">
             💬 WhatsApp: 0831-6614-2120
         </a>
+ <!-- Peta Utama -->
+    <div class="card">
+        <h2>🗺️ Peta Area Penempatan Cirebon</h2>
+        <div class="map-container">
+            <iframe 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126544.4314300963!2d108.51580165!3d-6.730436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6fb7f77f7f7f7f%3A0x4030bfbca0d51e0!2sCirebon%2C%20Jawa%20Barat!5e0!3m2!1sid!2sid!4v1727880000000!5m2!1sid!2sid" 
+                allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+        </div>
 
+        <h2 style="margin-top:30px;">📍 Daftar Lokasi Hub & Alamat Lengkap</h2>
+        
+        <div class="lokasi-list" style="margin-top:20px;">
+
+            <!-- 1 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Arjawinangun Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. Raya Arjawinangun, Kebonturi, Kec. Arjawinangun, Kab. Cirebon 45162<br>
+                    <em>Patokan: Ruko Jejer Depan Kampus ITB Arjawinangun</em>
+                </div>
+                <a href="https://maps.app.goo.gl/UU8KVS7sVYEKifCLA" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 2 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Astanajapura Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. Kh. Wahid Hasyim No.97, Kanci, Kec. Astanajapura, Kab. Cirebon, Jawa Barat 45181
+                </div>
+                <a href="https://goo.gl/maps/9XdjBSnW4JrK56aZ6" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 3 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Ciledug Kulon Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Samping Jempol Waterboom, Ciledug Kulon, Kab. Cirebon
+                </div>
+                <a href="https://maps.app.goo.gl/s936rorB26Gkw63FA" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 4 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Cirebon Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. Sunan Gunung Jati Blok IV, Kel. Klayan, Kec. Gunung Jati, Kab. Cirebon, Jawa Barat 45151
+                </div>
+                <a href="https://maps.app.goo.gl/yGT6LC9gSuGyTvUk6" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 5 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Depok Cirebon Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Kasugengan Kidul, Kec. Depok, Kab. Cirebon, Jawa Barat
+                </div>
+                <a href="https://maps.app.goo.gl/Un8QEqoZFy5vrqo16" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 6 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Harjamukti Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. Jendral Ahmad Yani No.16, RT 001/RW 013, Kel. Pegambiran, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat
+                </div>
+                <a href="#" class="btn-maps" style="opacity:0.6; cursor:not-allowed;">
+                    🔗 Belum tersedia link peta
+                </a>
+            </div>
+
+            <!-- 7 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Kaliwedi Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Karangsambung, Kec. Arjawinangun, Kab. Cirebon, Jawa Barat
+                </div>
+                <a href="https://maps.app.goo.gl/CZJvCH1JVrFaUo3dA" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 8 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Kedawung Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. Raya Pilangsari No.96, Kedawung, Kab. Cirebon<br>
+                    <em>Patokan: Samping Kantor Pos Kedawung</em>
+                </div>
+                <a href="https://maps.app.goo.gl/754Yu1cCFiRZZa2F7" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 9 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Lemahabang Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. Sindanglaut-Ciawi Gajah, Asem, Kec. Lemahabang, Kab. Cirebon, Jawa Barat 45183
+                </div>
+                <a href="https://maps.app.goo.gl/7cnigQfdTzNEvXwL9" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 10 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Palimanan Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. KH. Agus Salim RT 019 RW 05, Desa Palimanan Barat, Kec. Gempol, Kab. Cirebon, Jawa Barat
+                </div>
+                <a href="#" class="btn-maps" style="opacity:0.6; cursor:not-allowed;">
+                    🔗 Belum tersedia link peta
+                </a>
+            </div>
+
+            <!-- 11 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Panguragan Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Panguragan Wetan, Kec. Panguragan, Kab. Cirebon, Jawa Barat
+                </div>
+                <a href="https://maps.app.goo.gl/zFXYsLbz2Sb64gGb7" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 12 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Sumber Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. Ki Ageng Tapa, Kel. Gegunung, Kab. Cirebon, Jawa Barat
+                </div>
+                <a href="https://maps.app.goo.gl/SCCLsJtF9BwXb1Vr9" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 13 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Weru Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Jl. Kisabalanang, Desa Megu Cilik, Kec. Weru, Kab. Cirebon, Jawa Barat 45154
+                </div>
+                <a href="https://maps.app.goo.gl/YZA1QgMCGhDtxyFS7" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 14 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Plumbon Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Plumbon, Kab. Cirebon
+                </div>
+                <a href="https://maps.app.goo.gl/prsuECsWA49Va3uQ7" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 15 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Karangwareng Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Kubangdeleg, Kec. Karangwareng, Kab. Cirebon, Jawa Barat
+                </div>
+                <a href="https://maps.app.goo.gl/B4NqdeL5chokC6Ma6" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 16 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Ciwaringin Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Gintung Kidul, Kec. Ciwaringin, Kab. Cirebon, Jawa Barat
+                </div>
+                <a href="https://maps.app.goo.gl/FMotj7XvN8ABpESPA" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+            <!-- 17 -->
+            <div class="lokasi-card">
+                <div class="lokasi-nama">Susukan 2 Hub</div>
+                <div class="lokasi-alamat">
+                    <strong>Alamat:</strong> Gintung Lor, Kec. Susukan, Kab. Cirebon, Jawa Barat
+                </div>
+                <a href="https://maps.app.goo.gl/jr4HthefXqbfGgGeA" target="_blank" class="btn-maps">
+                    📍 Buka di Google Maps
+                </a>
+            </div>
+
+        </div>
+    </div>
         <div class="gratis-badge">⭐ PENDAFTARAN GRATIS — TIDAK DIPUNGUT BIAYA APAPUN ⭐</div>
     </div>
 </div>
