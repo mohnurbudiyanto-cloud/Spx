@@ -130,7 +130,7 @@
             📝 Isi Formulir Pendaftaran
         </a>
         
-        <a href="https://docs.google.com/spreadsheets/d/19kT4iG2aLyzDfcknsJ6bpZBaaya-HF-EZypXMVHYqwQ/edit?gid=14360837#gid=14360837"_blank" class="btn-sheet">
+        <a href="https://docs.google.com/spreadsheets/d/19kT4iG2aLyzDfcknsJ6bpZBaaya-HF-EZypXMVHYqwQ/edit?gid=14360837#gid=14360837" target="_blank" class="btn-sheet">
             📊 Lihat Data & Kuota Rekrutmen
         </a>
         
