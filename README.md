@@ -382,9 +382,9 @@
         
         <p class="gratis"><span>⭐</span> PENDAFTARAN GRATIS! TIDAK DIPUNGUT BIAYA APAPUN <span>⭐</span></p>
     </div>
-
     <footer>
-        <p>&copy; 2026 myrobin.id — Lowongan Kerja Kurir SPX Jabar 2</p>
+        <p>&copy; 2026 myrobin.id — Lowongan Kerja Kurir SPX Jabar
+ 2</p>
         <p>Semoga berhasil! 🤝</p>
     </footer>
 </div>
