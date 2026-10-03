@@ -1,3 +1,4 @@
+<img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/72c08b1a-c110-41a7-86b5-a48ef0662658" />
 <!D0CTYPE html>
 <html lang="id">
 <head>
@@ -8,7 +9,7 @@
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Roboto, sans-serif; }
         :root {
             --teal: #009688;
-            --kuning: #f5b82e;
+            --kuning: #f5b82e;[index.html.txt](https://github.com/user-attachments/files/32987462/index.html.txt)
             --biru: #0b3d7c;
             --biru-terang: #1659b8;
             --hijau: #00a86b;
