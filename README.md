@@ -85,13 +85,12 @@
             font-size: 0.85rem; margin-top: 20px;
         }
     </style>
-</head>
 <body>
 
 <div class="container">
     <!-- LOGO -->
     <div class="logo-box">
-        <img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/3504949f-0bfe-4c8b-b8dc-ef0e063a900f" />
+        <img width="100" height="50" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/3504949f-0bfe-4c8b-b8dc-ef0e063a900f" />
     </div>
 
     <!-- BANNER UTAMA -->
