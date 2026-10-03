@@ -1,5 +1,4 @@
 <img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/72c08b1a-c110-41a7-86b5-a48ef0662658" />
-<!D0CTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
