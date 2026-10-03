@@ -1,3 +1,4 @@
+<img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/3504949f-0bfe-4c8b-b8dc-ef0e063a900f" />
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -132,7 +133,7 @@
             📝 Isi Formulir Pendaftaran
         </a>
         
-        <a href="https:/(https://docs.google.com/spreadsheets/d/1X0MOYOW8mF4PvpwGzpALJHTRtuTk4cPftP3R9G2TT48/edit?usp=sharing)" target="_blank" class="btn-sheet">
+        <a href="https://https://docs.google.com/spreadsheets/d/1X0MOYOW8mF4PvpwGzpALJHTRtuTk4cPftP3R9G2TT48/edit?usp=sharing" target="_blank" class="btn-sheet">
             📊 Lihat Data & Kuota Rekrutmen
         </a>
         
