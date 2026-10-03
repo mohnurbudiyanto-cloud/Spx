@@ -1,10 +1,10 @@
-[index2.html.txt](https://github.com/user-attachments/files/32989373/index2.html.txt)
+
 <img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/72c08b1a-c110-41a7-86b5-a48ef0662658" />
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lowongan Kurir SPX Jabar 2 — Area Cireb<img widt<img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/ae1badcc-72e7-4bba-b26f-0883e8744fe0" />h="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/d756bccc-fa6b-4953-80cd-cb5d5375eb68" />on</title>
+    <title>Lowongan Kurir SPX Jabar 2 — Area Cirebon<img widt<img width="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/ae1badcc-72e7-4bba-b26f-0883e8744fe0" />h="447" height="447" alt="Iogo-myrobin" src="https://github.com/user-attachments/assets/d756bccc-fa6b-4953-80cd-cb5d5375eb68" />on</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', Roboto, sans-serif; }
         :root {
@@ -378,7 +378,7 @@
         
         <br>
         <a href="https://[https://bit.ly/4hF9rBM]" target="_blank" class="btn-link">
-            🔗 Atau Daftar Lewat Link: bit.ly/KurirMYRJabar
+            🔗 Atau Daftar Lewat Link: [https://bit.ly/4hF9rBM]
         </a>
         
         <p class="gratis"><span>⭐</span> PENDAFTARAN GRATIS! TIDAK DIPUNGUT BIAYA APAPUN <span>⭐</span></p>
